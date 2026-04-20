@@ -21,15 +21,12 @@ VIRTUSA PROJECTS
 │ 
 ├── Python/
 │   ├── Project1
-│   ├── Project2
 │   └── README.md
 ├── Java/
 │   ├── Project1
-│   ├── Project2
 │   └── README.md
 ├── SQL/
-│   ├── Queries.sql
-│   ├── Database_Project
+│   ├── Project1
 │   └── README.md
 └── README.md
 ```
