@@ -1,12 +1,23 @@
-The Shopping Management System is a Java-based desktop application developed to manage shopping store operations efficiently.
-It provides functionalities for managing products, customers, billing, and inventory using core Java concepts such as Object-Oriented Programming (OOP), file handling, and exception handling.
+### SHOPPING MANAGEMENT SYSTEM
+A console-based Shopping Management System built using Core Java that simulates real-world shopping operations with Admin and Customer roles.
 
-This system helps automate manual store processes like product management, billing, and record maintenance.
+
+### Features
+**Admin**
+* Add new products
+* View all products
+**Customer**
+* View available products
+* Add products to cart
+* View cart items
+* Checkout and generate bill
 
 
 ### Technologies Used
-* Language: Java
-* Concepts: OOP (Classes, Objects, Inheritance, Encapsulation,packages)
+* Java (Core Java)
+* OOP Concepts (Abstraction, Inheritance, Polymorphism, Encapsulation)
+* Java Collections (ArrayList)
+* Scanner (User Input)
 
 ### FOLDER STRUCTURE
 
