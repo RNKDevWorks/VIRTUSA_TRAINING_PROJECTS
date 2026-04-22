@@ -32,6 +32,6 @@ ShoppingManagementSystem/
 │   ├── Customer.class
 │   ├── Customer.java
 │   ├── User.class
-│    └── User.java
+│   └── User.java
 └── README.md
 ```
