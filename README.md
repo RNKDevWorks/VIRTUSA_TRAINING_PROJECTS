@@ -1,4 +1,4 @@
-# VIRTUSA TRAINING PROJECTS
+<h1 align="center"> VIRTUSA TRAINING PROJECTS </h1>
 
 This repository contains a collection of projects developed using Python, Java, and SQL.
 
