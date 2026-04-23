@@ -11,7 +11,7 @@ A local college library needs a system to:
 ---
 
 ### Features  
-* Create relational database structure
+* Create relational database structure & Use joins and grouping for analysis
 ![Create DB](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/SQL/OUTPUTS/s1.jpeg)
 * Insert sample data
 ![Insert](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/SQL/OUTPUTS/s2.jpeg)
@@ -27,7 +27,8 @@ A local college library needs a system to:
 ![cat](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/SQL/OUTPUTS/s6.jpeg)
 * Identify inactive students
 ![cat](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/SQL/OUTPUTS/s7.jpeg)
-*  Use joins and grouping for analysis
+* Delete Inactive Students:
+![delete](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/SQL/OUTPUTS/s10.jpeg)
 ---
 
 ```
