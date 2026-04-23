@@ -4,17 +4,22 @@
 * It stores expense data in a CSV file and provides summaries, category-wise analysis, and budget insights with visual charts.
 ---
 ### Features  
-* Add daily expenses 
-![Add Expenses](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/inputs2.jpeg)
+* Add daily expenses
+
+  ![Add Expenses](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/inputs2.jpeg)
 * Monthly expense summary
-![Monthly Summary](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/inputs1.jpeg)
-![View Date Range](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/output.jpeg)
+
+  ![Monthly Summary](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/inputs1.jpeg)
+  ![View Date Range](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/output.jpeg)
 * Date range expense history
-![View Date Range](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/outputs1.jpeg)
+  
+  ![View Date Range](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/outputs1.jpeg)
 * Pie chart visualization of expenses
-![piechart](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/piechart.jpeg)
+
+  ![piechart](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/OUTPUTS/piechart.jpeg)
 * CSV-based data storage
-[csv file link:](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/expenses.csv)
+
+  [csv file link:](https://github.com/RNKDevWorks/VIRTUSA_TRAINING_PROJECTS/blob/main/PYTHON/expenses.csv)
 
 ---
 
